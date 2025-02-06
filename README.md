@@ -28,6 +28,8 @@ Welcome to my GitHub profile! I'm Biswaranjita Sahoo, who loves coding, open sou
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biswaranjita6935&show_icons=true&theme=radical)
+<img align="right" height="142" src="https://tse4.mm.bing.net/th?id=OIP.Nga1KTLOm_RtxC4IBw8qWgHaHa&pid=Api&P=0&h=220"  />
+
 
 ## 🔗 Connect with Me
 <div align="left">
@@ -39,8 +41,8 @@ Welcome to my GitHub profile! I'm Biswaranjita Sahoo, who loves coding, open sou
 <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="23" alt="youtube logo"  />
 </div>
 
+
+
 ⭐️ **Feel free to check out my repositories and contribute!**
 
-
-<img align="right" height="142" src="https://tse4.mm.bing.net/th?id=OIP.Nga1KTLOm_RtxC4IBw8qWgHaHa&pid=Api&P=0&h=220"  />
 
