@@ -24,11 +24,11 @@ Welcome to my GitHub profile! I'm Biswaranjita Sahoo, who loves coding, open sou
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25" alt="sqlite logo"  />
 </div>
-<img align="right" height="142" src="https://tse4.mm.bing.net/th?id=OIP.Nga1KTLOm_RtxC4IBw8qWgHaHa&pid=Api&P=0&h=220"  />
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biswaranjita6935&show_icons=true&theme=radical)
-<img align="right" height="142" src="https://tse4.mm.bing.net/th?id=OIP.Nga1KTLOm_RtxC4IBw8qWgHaHa&pid=Api&P=0&h=220"  />
+<img align="right" height="180" src="https://tse4.mm.bing.net/th?id=OIP.Nga1KTLOm_RtxC4IBw8qWgHaHa&pid=Api&P=0&h=220"  />
 
 
 ## 🔗 Connect with Me
