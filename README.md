@@ -1,4 +1,26 @@
-Author:-Biswaranjita Sahoo
+  <h2 align="center">Hi 👋! My name is Biswaranjita Sahoo</h2>
+
+
+Welcome to my GitHub profile! I'm Biswaranjita Sahoo, who loves coding, open source, and building awesome projects. 🚀
+
+## 🌱 About Me
+- 🌱 I’m learning Python Full Stack
+- 💬 Ask me about Python, SQL, Web Development
+- 📫 How to reach me: sahoobiswaranjita8@gmail.com
+
+## 🚀 Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+
+⭐️ **Feel free to check out my repositories and contribute!**
+
 <h2 align="center">Hi 👋! My name is Biswaranjita Sahoo</h2>
 
 ###
