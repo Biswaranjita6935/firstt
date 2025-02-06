@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm Biswaranjita Sahoo, who loves coding, open sou
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biswaranjita6935&show_icons=true&theme=radical)
 <img align="right" height="180" src="https://tse4.mm.bing.net/th?id=OIP.Nga1KTLOm_RtxC4IBw8qWgHaHa&pid=Api&P=0&h=220"  />
-
+(https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 ## 🔗 Connect with Me
 <div align="left">
