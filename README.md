@@ -41,16 +41,5 @@ Welcome to my GitHub profile! I'm Biswaranjita Sahoo, who loves coding, open sou
 ⭐️ **Feel free to check out my repositories and contribute!**
 
 
-###
-
 <img align="right" height="142" src="https://tse4.mm.bing.net/th?id=OIP.Nga1KTLOm_RtxC4IBw8qWgHaHa&pid=Api&P=0&h=220"  />
 
-<div align="left">
- <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="23" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="23" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="23" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="23" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="23" alt="facebook logo"  />
-<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="23" alt="youtube logo"  />
-</div>
-###
